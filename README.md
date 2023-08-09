@@ -3,4 +3,4 @@ Polar Ice core, (bubbly ice) analysis and segmentation. The code is an attachmen
 
 To run the code, you may download the corresponding data from the link below:
 
-https://skfb.ly/oIyEu)https://skfb.ly/oIyEu
+https://skfb.ly/oIyEu
