@@ -32,9 +32,9 @@ class CustomDataset(Dataset):
         self.transform = transform
         
         #padding to a proper shape that is power of 2
-        self.data = self.padd_to_proper(self.data)
+        #self.data = self.padd_to_proper(self.data)
 
-        self.target = self.padd_to_proper(self.target)
+        #self.target = self.padd_to_proper(self.target)
         self.original_shape = self.target.shape
 
         print ('data shape = ', self.data.shape)

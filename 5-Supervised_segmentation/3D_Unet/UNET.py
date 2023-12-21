@@ -86,8 +86,8 @@ class UNet(nn.Module):
 
 # Creating an instance of the model
 #model = UNet(in_channels=1, out_channels=1)
-#device = torch.device('cuda')
-#model.to(device)
+######device = torch.device('cuda')
+######model.to(device)
 # Print the model summary
 #summary(model, input_size=(1, 32, 32, 32))
 
